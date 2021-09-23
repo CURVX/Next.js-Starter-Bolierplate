@@ -31,5 +31,6 @@ To learn more about Next.js, take a look at the following resources:
 
 yarn add --dev eslint prettier eslint-config-prettier eslint-plugin-prettier
 yarn add --dev eslint-config-airbnb
+yarn eslint --init
 
 eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest
